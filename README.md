@@ -1,2 +1,2 @@
 # TwitterSentiment-Analysis
-My First Project to learn about Machine Learning.
+My First Project to delve into Machine Learning.
